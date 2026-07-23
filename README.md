@@ -2,7 +2,7 @@
 
 Basic student record management system developed using Python and NumPy.
 
-**By Shrawani Sanjay Chavare**
+**By Gayatri Bajirao Aher**
 
 ## Project: Student Analytics System
 
